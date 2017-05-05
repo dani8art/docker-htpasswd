@@ -1,6 +1,6 @@
 {
   "name": "darteaga-htpasswd",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A docker image to run manage users and basic auth with htpasswd",
   "main": "Grunfile.js",
   "scripts": {
