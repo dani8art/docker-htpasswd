@@ -2,6 +2,8 @@
 
 ### Supported tags and respective `Dockerfile` links
 
+- `latest`, `0.0.1` [(Dockerfile)](https://github.com/dani8art/docker-htpasswd/blob/master/Dockerfile) 
+
 ### Quick reference
 
 - **Where to get help:**  
@@ -36,4 +38,4 @@ see [release note](http://github.com/dani8art/docker-htpasswd/releases/tag/0.0.1
 
 For running:
 
-- Download latest version from [Docker Hub]()
+- Download latest version from [Docker Hub](https://hub.docker.com/r/darteaga/htpasswd/)

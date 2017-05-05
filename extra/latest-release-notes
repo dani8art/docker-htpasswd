@@ -11,4 +11,4 @@ see [release note](<%= pkg.repository.github %>/releases/tag/<%= pkg.version %>)
 
 For running:
 
-- Download latest version from [Docker Hub]()
+- Download latest version from [Docker Hub](https://hub.docker.com/r/darteaga/htpasswd/)
