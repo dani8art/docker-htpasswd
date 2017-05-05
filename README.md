@@ -29,10 +29,10 @@ For technical inquiry please contact to [engineering team](https://darteaga.com)
 
 ## Latest release
 
-[![Build Status](https://travis-ci.org/isa-group/project-template-nodejs.svg?branch=master)](https://travis-ci.org/http://github.com/isa-group/project-template-nodejs)
+[![Build Status](https://travis-ci.org/dani8art/docker-htpasswd.svg?branch=master)](https://travis-ci.org/http://github.com/dani8art/docker-htpasswd)
 
-The version 0.0.0 is the latest stable version of darteaga-htpasswd image.
-see [release note](http://github.com/isa-group/project-template-nodejs/releases/tag/0.0.0) for details.
+The version 0.0.1 is the latest stable version of darteaga-htpasswd image.
+see [release note](http://github.com/dani8art/docker-htpasswd/releases/tag/0.0.1) for details.
 
 For running:
 

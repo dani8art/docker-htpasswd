@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/isa-group/project-template-nodejs.git",
-    "github": "http://github.com/isa-group/project-template-nodejs"
+    "url": "git://github.com/dani8art/docker-htpasswd.git",
+    "github": "http://github.com/dani8art/docker-htpasswd"
   },
   "keywords": [
     "docker",

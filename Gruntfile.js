@@ -23,7 +23,7 @@ module.exports = function (grunt) {
                 options: {
                     position: 'bottom',
                     banner: '## License notice\n\n<%= latestReleaseNotes %>',
-                    replace: /##\sCopyright\snotice(\s||.)+/g,
+                    replace: /##\sLicense\snotice(\s||.)+/g,
                     linebreak: false
                 },
                 files: {
